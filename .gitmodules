@@ -1,0 +1,9 @@
+[submodule "dermitrack"]
+	path = dermitrack
+	url = https://github.com/Aleksei115/dermitrack.git
+[submodule "dermitrack-analytics"]
+	path = dermitrack-analytics
+	url = https://github.com/Aleksei115/dermitrack-analytics.git
+[submodule "dermitrack-supabase"]
+	path = dermitrack-supabase
+	url = https://github.com/Aleksei115/dermitrack-supabase.git
